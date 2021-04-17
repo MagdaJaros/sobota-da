@@ -2,3 +2,4 @@ stůl
 židle
 postel
 koberec
+okno
